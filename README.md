@@ -52,6 +52,6 @@ This repository contains a Jupyter notebook implementation of a lightweight heal
 - **Data & viz:**  
   - `pandas`, `matplotlib`, `seaborn`, `tqdm`, `IPython.display`  
 
-For a complete walkthrough, including code, results, and detailed discussion, please see the Jupyter notebook (`heal_summ.ipynb`).
+For a complete walkthrough, including code, results, and detailed discussion, please see the Jupyter notebook [`heal_summ.ipynb`](heal_summ.ipynb)
 
 Full results available in [`heal_summ_all_models.csv`](Summaries%20Generated%20Per%20Model/heal_summ_all_models.csv)
