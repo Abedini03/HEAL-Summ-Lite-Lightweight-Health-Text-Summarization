@@ -54,4 +54,4 @@ This repository contains a Jupyter notebook implementation of a lightweight heal
 
 For a complete walkthrough, including code, results, and detailed discussion, please see the Jupyter notebook (`heal_summ.ipynb`).
 
-Full results available in [`heal_summ_all_models.csv`](Summaries Generated Per Model/heal_summ_all_models.csv)
+Full results available in [`heal_summ_all_models.csv`](Summaries%20Generated%20Per%20Model/heal_summ_all_models.csv)
